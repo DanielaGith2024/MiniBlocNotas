@@ -1,0 +1,25 @@
+# Archivos de Android Studio
+*.iml
+.gradle/
+local.properties
+
+# Configuración de IDE (solo ignora lo innecesario)
+.idea/*
+!.idea/codeStyles
+!.idea/runConfigurations
+
+# Carpetas de build (en todos los módulos)
+build/
+*/build/
+
+# Archivos de compilación nativos
+.cxx/
+.externalNativeBuild/
+
+# Capturas y temporales
+captures/
+.DS_Store
+Thumbs.db
+
+# Archivos de sistema
+*.log
