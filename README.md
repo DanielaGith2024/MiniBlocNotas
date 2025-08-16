@@ -26,7 +26,7 @@ app/src/main/java/... → Lógica de la aplicación (Actividades, Adaptadores, C
 app/src/main/res/layout/ → Archivos XML para la interfaz.  
 app/src/main/AndroidManifest.xml → Configuración principal de la aplicación.  
 
-**Ejecución**
+**Ejecución:**
 
 Clonar este repositorio:   **https://github.com/usuario/bloc-notas.git.**  
 Abrir el proyecto en Android Studio.  
