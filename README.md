@@ -7,7 +7,7 @@ Desarrollada en Android Studio con Java , utilizando SharedPreferences para el a
 
 Crear nuevas notas con título y contenido. 
 Visualizar la lista de notas guardadas. 
-Editar notas existentes.
+Editar notas existentes. 
 Eliminar notas que ya no sean necesarias. 
 Almacenamiento offline mediante SharedPreferences.
 
@@ -31,6 +31,7 @@ Diseño de interfaz: XML (Layouts)
 3.	Sincroniza el proyecto con Gradle para descargar dependencias.
 4.	Conecte un dispositivo Android o utilice un emulador.
 5.	Presione Run para iniciar la aplicación.
+
 
 
 
