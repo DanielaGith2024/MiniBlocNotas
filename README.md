@@ -28,7 +28,7 @@ app/src/main/AndroidManifest.xml → Configuración principal de la aplicación.
 
 **Ejecución**
 
-Clonar este repositorio:   **git clone https://github.com/usuario/bloc-notas.git.**  
+Clonar este repositorio:   **https://github.com/usuario/bloc-notas.git.**  
 Abrir el proyecto en Android Studio.  
 Sincronizar el proyecto con Gradle para descargar dependencias.  
 Conectar un dispositivo Android o utilizar un emulador.  
