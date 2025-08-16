@@ -5,7 +5,7 @@ Desarrollada en Android Studio con Java , utilizando SharedPreferences para el a
 **Funcionalidades**
 Crear nuevas notas con título y contenido. 
 Visualizar la lista de notas guardadas. 
-Editar notas existentes. 
+Editar notas existentes.
 Eliminar notas que ya no sean necesarias. 
 Almacenamiento offline mediante SharedPreferences.
 
