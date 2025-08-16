@@ -13,7 +13,7 @@ Almacenamiento **offline** mediante SharedPreferences.
 
 **Tecnologías utilizadas**
 
-Lenguaje: Java  
+Lenguaje: Kotlin 
 IDE: Android Studio  
 Almacenamiento local: SharedPreferences  
 Diseño de interfaz: XML (Layouts)
